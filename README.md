@@ -1,0 +1,2 @@
+# AWS_Lambda-Invoke_using_Bash
+AWS_Lambda-Invoke_using_Bash
